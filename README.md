@@ -15,6 +15,8 @@ Entre outros...
 
 E Também com os conhecimentos adquiridos, foi feito um site para demostrar a utilização da propriedade **"flex-box"**:
 
+[LINK DO SITE](https://gabriel-andradeweb.github.io/Curso-Flex-box/)
+
 <div align="center">
 <img src="https://cdn.discordapp.com/attachments/904157735728340993/966147112024829952/2022-04-19_22-17-23_Trim.gif">
 </div>
