@@ -13,4 +13,8 @@ No Curso feito na plataforma **Dio.me**, foi apresentado de como ser utiliza a p
 
 Entre outros...
 
-E Também com os conhecimentos adquiridos, foi feito um site para demostrar a utilização da propriedade **"flex-box"**.
+E Também com os conhecimentos adquiridos, foi feito um site para demostrar a utilização da propriedade **"flex-box"**:
+
+<div align="center">
+<img src="https://cdn.discordapp.com/attachments/904157735728340993/966143605376962590/2022-04-19_21-16-44_2.gif">
+</div>
