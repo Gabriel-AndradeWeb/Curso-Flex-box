@@ -13,4 +13,4 @@ No Curso feito na plataforma **Dio.me**, foi apresentado de como ser utiliza a p
 
 Entre outros...
 
-E Também com os conhecimentos adquiridos, foi feito um site para demostrar a atilização da propriedade **"flex-box"**.
+E Também com os conhecimentos adquiridos, foi feito um site para demostrar a utilização da propriedade **"flex-box"**.
